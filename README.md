@@ -1,4 +1,4 @@
-compile: cc -s -o ip2res-ip ip2res-ip.c */
+compile: cc -s -o ip2res-ip ip2res-ip.c
 
   ./ip2res-ip <list file>
   eg:
